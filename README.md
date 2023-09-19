@@ -1,4 +1,4 @@
-# Example of an Flask API
+# Example of a Flask API
 This is a simple Flask API developed during this course.
 
 ## 📫 Contact me
